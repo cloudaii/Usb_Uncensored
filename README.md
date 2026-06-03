@@ -1,7 +1,6 @@
 # ⚡ Usb_Uncensored
 
-[![Demo Video](https://img.shields.io/badge/Video-Demo-yellow?logo=youtube)](https://youtu.be/60PSXsoXc8A)  
-[![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/techjarves/USB-Uncensored-LLM#)
+
 
 **USB-Uncensored-LLM** is a fully air-gapped, plug-and-play Local AI system. Run large language models directly from your **local drive** or **USB/SSD**, with **no internet or complex installation** required. Compatible with **Windows, macOS, Linux, and Android**.
 
